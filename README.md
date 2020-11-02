@@ -14,5 +14,10 @@ Here is the total amount of comments and replies my bot has made:
    len(top_level_comments)= 13
    len(replies)= 987
    len(valid_top_level_comments)= 1
+   len(not_self_replies)= 987
+   len(valid_replies)= 737
+   ========================================
+   valid_comments= 738
+   ========================================
 ```
 
