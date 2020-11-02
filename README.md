@@ -9,10 +9,10 @@ I personally like [this comment interaction](https://www.reddit.com/r/csci040tem
 
 
 Here is the total amount of comments and replies my bot has made:
-'''
+```
    len(comments)= 1000
    len(top_level_comments)= 13
    len(replies)= 987
    len(valid_top_level_comments)= 1
-'''
+```
 
