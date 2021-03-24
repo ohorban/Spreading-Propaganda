@@ -23,8 +23,3 @@ Here is the total amount of comments and replies my bot has made:
 <br />
 ----------------------------------------------------------------------------------------------------------------
  <br />
-
-I have completed 6 tasks (6*2 points), github repo (2 points), got over 100 valid comments (2 points), upvoted comments mentioing Biden (1 point), downvoted comments mentioning Trump (1 point), got over 500 valid comments (1 point), used TextBlob to upvote and downvote comments based on their sentiment (2 points), used TextBlob to customize comments based on sentiment (4 points since not very creative)
- <br />
-
- #### Total Score: 25/20
