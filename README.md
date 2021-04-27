@@ -1,4 +1,4 @@
-# CS40 Homework3: Spreading Propaganda
+Spreading Propaganda
  Reddit bot that spreads political propaganda for 2020 presidential election
 
 **Description:**
